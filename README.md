@@ -46,7 +46,7 @@ FRONTEND-VIDEO2
   No Site você pode colocar seu nome e retornar HelloWorld com o seu nome.
 Basta clicar no input, escrever algum nome e clicar em "Salvar", Após isso ira aparecer em baixo o HelloWorld com o nome que voce escreveu no input.
  
-https://github.com/user-attachments/assets/2acbc20f-3ac1-4958-9303-704b36d733c5
+https://github.com/user-attachments/assets/b77254a0-27c6-4e47-95d4-4dd1bfe91beb
 
 
 ## 📚 Referência
