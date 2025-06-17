@@ -1,5 +1,5 @@
 
-# 🌍 HelloWorld - Backend
+# 🌍 HelloWorld - Frontend
 
 Este é o Frontend do projeto **HelloWorld**, desenvolvido com **React**, **Boostrap** e **Axios**. Ele Uma pagina para Colocar seu nome e retorna com HelloWorld na frente.
 
