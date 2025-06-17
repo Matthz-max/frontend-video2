@@ -42,7 +42,7 @@ FRONTEND-VIDEO2
 └── README.md
 ```
   
-## Tutorial de como usar o site
+## 🖥️Tutorial de como usar o site
   No Site você pode colocar seu nome e retornar HelloWorld com o seu nome.
 Basta clicar no input, escrever algum nome e clicar em "Salvar", Após isso ira aparecer em baixo o HelloWorld com o nome que voce escreveu no input.
  
